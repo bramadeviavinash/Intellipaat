@@ -2,3 +2,4 @@ Hi this is Git session
 Developing some code to work on that
 Required details
 Thank you
+I have updated this to check Poll Scm
